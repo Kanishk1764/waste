@@ -1,12 +1,4 @@
----
-
-# **TalentScout Hiring Assistant**  
-**Project Documentation**  
-**By Kanishk Mishra**  
-**Email: Kanishkmishra402@gmail.com**  
-
----
-
+                                                                                 ##Project Documentation
 ## **Introduction**  
 The **TalentScout Hiring Assistant** is an AI-powered chatbot designed to streamline the initial screening process for tech recruitment. Built using **Streamlit** for the front-end interface and **Groq's LLM API** for natural language processing, this tool automates the collection of candidate information, assesses technical proficiency, and provides a seamless conversational experience.  
 
